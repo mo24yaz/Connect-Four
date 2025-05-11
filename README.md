@@ -48,11 +48,11 @@ Each component is built and run independently. From the root directory:
 
 ## Screenshots
 
-### Main Game Screen
+### Main Game Scene
 
 ![Connect-Four Board in Play](assets/game.jpeg)
 
-### Retro-Style Animation
+### In-Game Sceme
 
 ![Piece Drop Animation](assets/ingame.jpeg)
 
