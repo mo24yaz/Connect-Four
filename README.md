@@ -50,7 +50,7 @@ Each component is built and run independently. From the root directory:
 
 ### Main Game Screen
 
-![Connect-Four Board in Play](assets/game.png)
+![Connect-Four Board in Play](assets/game.jpeg)
 
 ### Retro-Style Animation
 
