@@ -54,7 +54,7 @@ Each component is built and run independently. From the root directory:
 
 ### Retro-Style Animation
 
-![Piece Drop Animation](assets/demo.gif)
+![Piece Drop Animation](assets/ingame.jpeg)
 
 ## Contributing
 
