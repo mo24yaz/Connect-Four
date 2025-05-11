@@ -8,6 +8,9 @@ This repository contains two standalone Java Maven projects that together implem
 .
 ├── Project3Server    # Maven project for the game server (matchmaking, game state, logging)
 ├── Project3Client    # Maven project for the JavaFX GUI client (game board, chat, AI mode)
+├── assets            # Images/GIFs for README documentation
+│   ├── game.jpeg
+│   ├── ingame.jpeg
 └── README.md         # This file
 ```
 
