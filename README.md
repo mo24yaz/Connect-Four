@@ -55,7 +55,7 @@ Each component is built and run independently. From the root directory:
 
 ![Connect-Four Board in Play](assets/game.jpeg)
 
-### In-Game Sceme
+### In-Game Scene
 
 ![Piece Drop Animation](assets/ingame.jpeg)
 
